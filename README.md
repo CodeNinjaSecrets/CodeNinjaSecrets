@@ -1,4 +1,4 @@
--👋 Hi, I’m K-A-W-I-N,, your friendly buddy! I love coding, Its my hobby, i find great pleasure in it as it excercises and keeps my thinking fresh 😄
+-👋😄 Hi, I’m K-A-W-I-N,, your friendly buddy! I love coding, Its my hobby, i find great pleasure in it as it excercises and keeps my thinking fresh
 
 -👀 I’m interested in, Backend web application development and I’m currently learning Spring Boot.
 
