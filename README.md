@@ -1,4 +1,4 @@
--👋 Hi, I’m K-A-W-I-N,, your friendly neighborhood tech enthusiast! I love coding, who doesn't?  😄
+-👋 Hi, I’m K-A-W-I-N,, your friendly buddy! I love coding, who doesn't?  😄
 
 -👀 I’m interested in, Backend web development.
 
