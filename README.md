@@ -1,10 +1,8 @@
--👋😄 Hi, I’m K-A-W-I-N,, your friendly buddy! I love coding, Its my hobby, i find great pleasure in it as it excercises and keeps my thinking fresh
+-👋😄 Hi, I’m K-A-W-I-N,, I love coding, Its my hobby, Currently trying to find an Internship. Feel free to connect.
 
--👀 I’m interested in, Backend web application development and I’m currently learning Spring Boot.
+-👀 Experienced with Java and looking to become a Backend web developer. 
 
 -💞️ I want to collaborate on projects to help others and grow as a developer.
-
--A couple simple front end projects and a lot more Backend end projects can be seen here.
 
 -📫 How to reach me: kawinyogam@gmail.com or ky4755@rit.edu
 
